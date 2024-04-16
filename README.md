@@ -1,22 +1,24 @@
-<h1 align="left">Hey there! I'm Hareth LABADI 👋</h1>
+# Hey there! I'm **Hareth LABADI** 👋
 
-###
+##
 
-<p align="left">Computer science student from Algeria.</p>
+Computer science student from Algeria.
 
-###
+##
 
-<h2 align="left">🌟Note</h2>
+## 🌟Note
 
-###
+**Unfortunately, I lost access to my old GitHub account, which contained more projects and contributions.**
 
-<p align="left">Unfortunately, I lost access to my old GitHub account, which contained more projects and contributions.</p>
+##
 
-###
+## 📧 Email
 
-<h2 align="left">Social media</h2>
+**harethlabadi@gmail.com**
 
-###
+##
+
+## Social media 📱
 
 <div align="center">
   <a href="https://www.linkedin.com/in/hareth-labadi/" target="_blank">
@@ -36,16 +38,12 @@
   </a>
 </div>
 
-###
+##
 
-<h2 align="left">I code with</h2>
-
-###
+## I code with 💻
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -71,11 +69,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
-###
+##
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hareth-labadi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
+##
