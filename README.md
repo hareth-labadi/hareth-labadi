@@ -2,7 +2,7 @@
 
 ##
 
-Computer science student from Algeria.
+Computer science student from Algeria 🇩🇿
 
 ##
 
